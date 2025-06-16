@@ -49,6 +49,10 @@
 
 [CCSP Exam Cram Series by Pete Zerger](https://www.youtube.com/watch?v=bQSUsRCv19w&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0)
 
+
+
+[CCSP Exam Cram Series by Pete Zerger](https://www.youtube.com/watch?v=tK2LiepVC8E&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0&index=3)
+
 [How to Prepare for CCSP exam with step by step resources (Must Review Before reading any stuff)](https://www.youtube.com/watch?v=dCPRZoKntX0&t=611s)
 
 [CCSP DOMAIN 1 Cloud Concepts, Architecture and Design](https://www.youtube.com/watch?v=OzzqfFFNxc0&t=437s)
