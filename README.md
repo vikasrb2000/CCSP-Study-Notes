@@ -47,6 +47,8 @@
 
 ## Youtube
 
+https://www.youtube.com/watch?v=6YZvp2GwT0A
+
 [CCSP Exam Cram Series by Pete Zerger](https://www.youtube.com/watch?v=bQSUsRCv19w&list=PL7XJSuT7Dq_X0AupQwU8YOGV3TsoPAcD0)
 
 
